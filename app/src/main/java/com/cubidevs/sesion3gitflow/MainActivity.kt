@@ -12,3 +12,4 @@ class MainActivity : AppCompatActivity() {
 //Edwin Cubillos
 //Sebastian Ospina
 //Alexander Espinosa
+//Juan Guillermo
