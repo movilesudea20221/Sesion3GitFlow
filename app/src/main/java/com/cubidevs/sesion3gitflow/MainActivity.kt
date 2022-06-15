@@ -9,4 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 }
+//Edwin Cubillos
+//Sebastian Ospina
 //Alexander Espinosa
